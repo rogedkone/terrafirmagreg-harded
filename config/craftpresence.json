@@ -174,7 +174,9 @@
     },
     "dynamicIcons": {
       "Xikaro": "https://mc-heads.net/avatar/57b3dfb5f8a649e28b544e4ffc63256f",
-      "default": "https://via.placeholder.com/256.png"
+      "default": "https://via.placeholder.com/256.png",
+      "rogedkone": "https://mc-heads.net/avatar/2092e05bc2f43f22b8a3614969e3e383",
+      "127.0.0.1": "https://api.mcsrvstat.us/icon/127.0.0.1"
     },
     "dynamicVariables": {
       "default": "Example Text",

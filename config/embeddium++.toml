@@ -5,7 +5,7 @@
 		#Configure FPS Display mode
 		#Complete mode gives you min FPS count and average count
 		#Allowed Values: OFF, SIMPLE, ADVANCED
-		fpsDisplay = "OFF"
+		fpsDisplay = "ADVANCED"
 		#Shows GPU and memory usage onto FPS display
 		#Allowed Values: OFF, ON, GPU, RAM
 		fpsDisplaySystem = "OFF"
@@ -130,13 +130,13 @@
 		cloudsHeight = 256
 		#Toggle fog feature
 		#Fog was a vanilla feature
-		fog = true
+		fog = false
 		#Clean my skies
 		#Blue band was a vanilla feature, toggle off will show sky color directly
 		blueBand = true
 		#Do not show me your name
 		#disables nametag rendering for players and entities
-		disableNameTagRendering = false
+		disableNameTagRendering = true
 
 		[embeddiumplus.quality.darkness]
 			#Configure fog brightness on nether when darkness is enabled
