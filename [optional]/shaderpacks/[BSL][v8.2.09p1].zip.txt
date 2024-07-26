@@ -1,4 +1,4 @@
-#Mon Jul 22 11:56:01 MSK 2024
+#Fri Jul 26 12:14:58 MSK 2024
 ANIMATION_SPEED=0.25
 AO_STRENGTH=1.50
 BLOOM=false
@@ -37,5 +37,4 @@ WAVING_PLANT=false
 WAVING_VINE=false
 WEATHER_PERBIOME=false
 shadowDistance=512.0
-shadowMapResolution=3072
 sunPathRotation=60.0
