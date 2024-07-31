@@ -1,0 +1,61 @@
+[2024-07-31 15:31:38] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.20
+[2024-07-31 15:31:38] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Games\Minecraft\UltimMC\instances\TerraFirmaGreg\.minecraft\CustomSkinLoader
+[2024-07-31 15:31:38] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
+[2024-07-31 15:31:38] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 21.0.4, Oracle Corporation
+[2024-07-31 15:31:38] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.20.1
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: Config File: C:\Games\Minecraft\UltimMC\instances\TerraFirmaGreg\.minecraft\CustomSkinLoader\CustomSkinLoader.json
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: Config file not found, use default instead.
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: Successfully create config.
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.20
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 27
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "LabyMod", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://dl.labymod.net/capes/{STANDARD_UUID}" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2024-07-31 15:31:39] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2024-07-31 15:31:39] [rogedkone/INFO] [CustomSkinLoader Core]: Loading rogedkone's profile.
+[2024-07-31 15:31:39] [rogedkone/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
+[2024-07-31 15:31:39] [rogedkone/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-07-31 15:31:39] [rogedkone/INFO] [CustomSkinLoader Core]: Payload: ["rogedkone"]
+[2024-07-31 15:31:39] [rogedkone/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 75)
+[2024-07-31 15:31:39] [rogedkone/DEBUG] [CustomSkinLoader Core]: Content: [ {
+  "id" : "d3a1742ffdad4af5b4075da38d3aa53d",
+  "name" : "rogedkone"
+} ]
+[2024-07-31 15:31:39] [rogedkone/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/d3a1742ffdad4af5b4075da38d3aa53d'.
+[2024-07-31 15:31:40] [rogedkone/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 611)
+[2024-07-31 15:31:40] [rogedkone/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 611 , Path: 'C:\Games\Minecraft\UltimMC\instances\TerraFirmaGreg\.minecraft\CustomSkinLoader\caches\a659193c28946a17b277c5963d617d7636076694' , Expire: 1722429130)
+[2024-07-31 15:31:40] [rogedkone/DEBUG] [CustomSkinLoader Core]: Content: {
+  "id" : "d3a1742ffdad4af5b4075da38d3aa53d",
+  "name" : "rogedkone",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcyMjQyOTA5OTkyOSwKICAicHJvZmlsZUlkIiA6ICJkM2ExNzQyZmZkYWQ0YWY1YjQwNzVkYTM4ZDNhYTUzZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyb2dlZGtvbmUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGNjNGRlZjA5Y2Q1ZTQzMjgyZDE1ZTczZGZlOGE3NGUyYzM4MWJhMDcyYzAxZjgwNTllMzg5OWExOTYwZTI4OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}
+[2024-07-31 15:31:40] [rogedkone/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LittleSkin'.
+[2024-07-31 15:31:40] [rogedkone/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/rogedkone.json'.
+[2024-07-31 15:31:42] [rogedkone/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2024-07-31 15:31:42] [rogedkone/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 185 , Path: 'C:\Games\Minecraft\UltimMC\instances\TerraFirmaGreg\.minecraft\CustomSkinLoader\caches\4e63c69f814fdc44c76f7c7db237115a91013a7a' , Expire: 1722429193)
+[2024-07-31 15:31:42] [rogedkone/DEBUG] [CustomSkinLoader Core]: Content: {"username":"rogedkone","skins":{"default":"d616930fd623f55ff3b57d189cbab42a31c4e135800ef4f783c4e5a3ca238389"},"cape":"62156f559f564497eb8bda374435338ae83e47e1877e5d802c81359d2b6da18a"}
+[2024-07-31 15:31:42] [rogedkone/INFO] [CustomSkinLoader Core]: rogedkone's profile loaded.
+[2024-07-31 15:31:42] [rogedkone/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/8cc4def09cd5e43282d15e73dfe8a74e2c381ba072c01f8059e3899a1960e288 , Model: slim , CapeUrl: https://littleskin.cn/csl/textures/62156f559f564497eb8bda374435338ae83e47e1877e5d802c81359d2b6da18a  , Expiry: 1722429132)

@@ -1,0 +1,9 @@
+{
+  "id" : "d3a1742ffdad4af5b4075da38d3aa53d",
+  "name" : "rogedkone",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcyMjQyOTA5OTkyOSwKICAicHJvZmlsZUlkIiA6ICJkM2ExNzQyZmZkYWQ0YWY1YjQwNzVkYTM4ZDNhYTUzZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyb2dlZGtvbmUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGNjNGRlZjA5Y2Q1ZTQzMjgyZDE1ZTczZGZlOGE3NGUyYzM4MWJhMDcyYzAxZjgwNTllMzg5OWExOTYwZTI4OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}
