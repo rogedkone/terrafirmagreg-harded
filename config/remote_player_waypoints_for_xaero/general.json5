@@ -1,0 +1,35 @@
+{
+	"enabled": true,
+	"enablePlayerWaypoints": true,
+	"enableMarkerWaypoints": true,
+	"enablePlayerIcons": true,
+	// in ms
+	"updateDelay": 2000,
+	"serverEntries": [
+		{
+			"maptype": "Bluemap",
+			"ip": "rogedcraft.duckdns.org",
+			"link": "rogedcraft.duckdns.org:8100"
+		}
+	],
+	// default Y coordinate for maps that don't provide Y coordinates
+	"defaultY": 64,
+	// in sec
+	"timeUntilAfk": 120,
+	"unknownAfkStateColor": 6316128,
+	"AfkColor": 16733440,
+	"playerWaypointColor": "Black",
+	"markerWaypointColor": "Gray",
+	"showAfkTimeInTabList": true,
+	"debugMode": false,
+	"ignoredServers": [],
+	"ignoreMarkerMessage": false,
+	// in m
+	"minDistance": 0,
+	// in m
+	"maxDistance": 100000,
+	// in m
+	"minDistanceMarker": 0,
+	// in m
+	"maxDistanceMarker": 100000
+}
